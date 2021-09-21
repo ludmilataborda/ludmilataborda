@@ -1,4 +1,5 @@
-![](https://github.com/AlanGiavino/Alan-Giavino/blob/main/Welcome.png?raw=true)
+![](https://user-images.githubusercontent.com/79535817/134229647-2e356024-e3be-43cb-adb6-c7ce8fc8bbda.jpg)
+
 👋 Hola, soy Ludmila Taborda y soy desarrolladora web Full-Stack 💻
 Soy de Argentina . Me encanta el desarrollo web, creo aplicaciones y diferentes funcionalidades para mis sitios web. Realmente me gusta aprender más y más sobre todas las nuevas y mejores tecnologías en el maravilloso mundo de la programación.
 <!-- markdownlint-enable MD033 -->
