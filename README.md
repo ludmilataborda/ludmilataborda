@@ -14,21 +14,20 @@ Soy de Argentina . Me encanta el desarrollo web, creo aplicaciones y diferentes 
 <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" width="50px" height="50px">
 <img src="https://res.cloudinary.com/marcomadera/image/upload/v1602894559/Blog/7/css_k23ypb.png" width="50px" height="50px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="50px" height="50px">
-<img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50px" height="50px">
 <img src="https://img.icons8.com/color/480/bootstrap.png" width="50px" height="50px">
 <img src="https://img.icons8.com/color/452/redux.png" width="50px" height="50px">  
 </div>
-
+ HTLM  || JavasScrpt || CSS || React || Bootstarp || Redux
 <br>
 
 ### Back-End
 <div style={{ display:'flex' }}>
-<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" width="120px" height="50px">
+<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" width="120px" height="50px" c>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="120px" height="50px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="50px" height="50px">
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/sequelize-logo-vector.svg" width="50px" height="50px">
 </div>  
-
+   Node JS || Express || Postgresql || Sequelize
 ---
 <!-- markdownlint-enable MD033 -->
  <br>
@@ -36,7 +35,7 @@ Soy de Argentina . Me encanta el desarrollo web, creo aplicaciones y diferentes 
 ## Proyectos:
 
 <!-- markdownlint-enable MD033 -->
--Recipes App 🥧🍔 --> Full stack app que consume una API para mostrar y crear nuevas recetas! [Click here!](https://github.com/ludmilataborda/PI-Dogs)
+-Dogs App 🥧🍔 --> Full stack app que consume una API para mostrar y crear razas de perros! [Click here!](https://github.com/ludmilataborda/PI-Dogs)
 <br>
 
 -Breaking Bad Fan App ⭐🎞 --> Full stack app que consume una api para mostrar personajes de la serie de televisión ! [Click here!](https://github.com/ludmilataborda/RepasoPI-BreakingBad)
@@ -52,7 +51,7 @@ Soy de Argentina . Me encanta el desarrollo web, creo aplicaciones y diferentes 
 <img src="https://sebastian-gomez.com/typescript.png" width="50px" height="50px">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="50px" height="50px">
 </div>
-
+    React Native || Typescrpt || Python
 ---
 <!-- markdownlint-enable MD033 -->
 <br>
